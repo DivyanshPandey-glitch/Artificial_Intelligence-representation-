@@ -1,4 +1,4 @@
-# Artificial_Intelligence-representation-
+8# Artificial_Intelligence-representation-
 BRAHMA is an advanced AI-powered personal assistant designed to make technology smarter and everyday life easier. It can control your smartphone, laptop, and smart home devices, send messages, make calls, play videos, create websites, build portfolios, and generate professional PPTs and Word documents. 
 # BRAHMA – The Future of Personal AI Assistance
 
@@ -110,7 +110,9 @@ One Assistant. Multiple Devices. Countless Possibilities. A Smarter Digital Futu
 Important Note
 
 BRAHMA's actual capabilities depend on its implementation, installed Python libraries, connected APIs, device permissions, and supported integrations. Access to personal information and device functions should always require appropriate authorization and security controls.
-
+for i5s functioning you need to give it the required permissions 
+relax it isn't a malware
+.....................................................................................
 Bibliography:
 official recognition to the innovator...
 https://youtu.be/vk-nU1CVvZg?si=ILaXF4OMOo9encuA
