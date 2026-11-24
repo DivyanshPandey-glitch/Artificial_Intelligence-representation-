@@ -1,5 +1,5 @@
-8# Artificial_Intelligence-representation-
-BRAHMA is an advanced AI-powered personal assistant designed to make technology smarter and everyday life easier. It can control your smartphone, laptop, and smart home devices, send messages, make calls, play videos, create websites, build portfolios, and generate professional PPTs and Word documents. 
+Artificial_Intelligence-representation-
+BRAHMA is an advanced AI-powered personal assistant like a real life JARVIS designed to make technology smarter and everyday life easier. It can control your smartphone, laptop, and smart home devices, send messages, make calls, play videos, create websites, build portfolios, and generate professional PPTs and Word documents. 
 # BRAHMA – The Future of Personal AI Assistance
 
 Imagine a world where technology doesn't just respond to your commands but understands your needs, manages your tasks, and works alongside you like a personal assistant. An advanced AI-powered assistant named **BRAHMA** is a step towards making this vision a reality.
