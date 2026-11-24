@@ -112,6 +112,7 @@ Important Note
 BRAHMA's actual capabilities depend on its implementation, installed Python libraries, connected APIs, device permissions, and supported integrations. Access to personal information and device functions should always require appropriate authorization and security controls.
 
 Bibliography:
+official recognition to the innovator...
 https://youtu.be/vk-nU1CVvZg?si=ILaXF4OMOo9encuA
 https://youtu.be/r4T_3yZia5s?si=UfoeFijGEufeH_lJ
 
