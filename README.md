@@ -115,7 +115,5 @@ relax it isn't a malware
 .....................................................................................
 Bibliography:
 official recognition to the innovator...
-https://youtu.be/vk-nU1CVvZg?si=ILaXF4OMOo9encuA
-https://youtu.be/r4T_3yZia5s?si=UfoeFijGEufeH_lJ
-
+"Buildonaut" on youtube.com 
 
